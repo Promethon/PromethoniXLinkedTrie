@@ -19,3 +19,5 @@ To be honest, this question can have many different answers, each with pros and 
 The **PromethoniXTrie** project implements the basis of the first idea. It creates a Merkle Patricia Trie that every value in the trie is a node of Linked List and establishes the desired connection between them and then tests the performance of the **Promethon** idea.
 
 Our initial tests have been positive and promising. We are currently implementing this idea on the [go-ethereum](https://github.com/ethereum/go-ethereum) source code and we hope to announce its completion soon!
+
+proposal for this aproach can be found [here](PromethoniXLinked.pdf)
