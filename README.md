@@ -20,4 +20,4 @@ The **PromethoniXTrie** project implements the basis of the first idea. It creat
 
 Our initial tests have been positive and promising. We are currently implementing this idea on the [go-ethereum](https://github.com/ethereum/go-ethereum) source code and we hope to announce its completion soon!
 
-proposal for this aproach can be found [here](PromethoniXLinked.pdf)
+proposal for this approach can be found [here](PromethoniXLinked.pdf)
